@@ -42,10 +42,6 @@ Project Submission
 The developed CLI program allows the user to explore an US bikeshare system database and retrieve statistics information from the database. The user is able filter the information by city, month and weekday, in order to visualize statistics information related to a specific subset of data. The user is also able to chose to view raw data and to sort this data by columns, in ascending or descending order.
 
 ### Files used
-Include the files used
-
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
 The required files for running this program are:
 Below are the listed files
@@ -54,6 +50,18 @@ Below are the listed files
 2. new_york_city.csv <br/>
 3. chicago.csv <br/>
 
+
+### Credits
+Below blogposts helped me understand some of the crucial concepts of R 
+1.https://www.neonscience.org/resources/learning-hub/tutorials/dc-convert-date-time-posix-r
+2.https://www.geeksforgeeks.org/how-to-extract-time-from-timestamp-in-r/
+
+
 **Project 3**
 
+**Overview**
+
 In this project, we'll be simulating a realistic workflow to refactor the previous BikeShare project using Git.
+![image](https://user-images.githubusercontent.com/48150581/123398077-b8328100-d5d5-11eb-93dd-d40fead61c09.png)
+
+
