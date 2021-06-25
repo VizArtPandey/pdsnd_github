@@ -47,3 +47,10 @@ Include the files used
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
+The required files for running this program are:
+Below are the listed files
+
+1. washington.csv <br/>
+2. new_york_city.csv <br/>
+3. chicago.csv <br/>
+
