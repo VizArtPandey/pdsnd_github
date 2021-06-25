@@ -54,3 +54,6 @@ Below are the listed files
 2. new_york_city.csv <br/>
 3. chicago.csv <br/>
 
+**Project 3**
+
+In this project, we'll be simulating a realistic workflow to refactor the previous BikeShare project using Git.
